@@ -1,0 +1,9 @@
+body{
+    background-image: linear-gradient(rgb(45, 74, 99), rgb(121, 166, 194));
+}
+a{
+    text-decoration: none;
+    color: aliceblue;
+    font-size: x-large;
+    margin-right: 350px;
+}
